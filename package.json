@@ -2,7 +2,7 @@
   "name": "dashboard-app",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
+"scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -18,3 +18,4 @@
     "node": ">=16.0.0"
   }
 }
+
