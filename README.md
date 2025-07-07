@@ -1,4 +1,4 @@
-Absolutely, Chandu! Here’s a polished README.md file tailored for your dashboard assignment — structured, professional, and GitHub-ready 🔥
+
 
 📊 Dashboard Assignment
 A responsive React-based dashboard application designed to demonstrate front-end proficiency. This project showcases routing, data visualization, custom pagination, search functionality, sorting logic, and client-side state persistence — all built with plain JavaScript.
