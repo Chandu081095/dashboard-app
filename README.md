@@ -3,9 +3,6 @@
 📊 Dashboard Assignment
 A responsive React-based dashboard application designed to demonstrate front-end proficiency. This project showcases routing, data visualization, custom pagination, search functionality, sorting logic, and client-side state persistence — all built with plain JavaScript.
 
-🚀 Live Demo
-🌐 Click to view the deployed app
-
 🧩 Features
 - 🔗 Routing
 - Profile screen displays static user data from dummy API
@@ -72,8 +69,5 @@ src/
 - Deployed via Vercel with SPA routing enabled using vercel.json
 - Responsive across Chrome, Firefox, and Edge
 
-🙋‍♂️ Author
-Built with passion by Chandu
-For questions, suggestions, or improvements — feel free to reach out!
 
-You can copy-paste this into your repo’s README.md or twe
+
